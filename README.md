@@ -1,10 +1,11 @@
 # Cloud Surfer
+Simple aimbot for Roblox
 <div align="center">
   <img src="https://i.imgur.com/QcBegg0.png" width="680" height="450" alt="Cloud Surfer">
 </div>
 
 ## Info ℹ️
-Cloud surfer is meant to be easy to use and effective, offering a hybrid between trigger-bot and silent aim to remain as undetectable and as close to natural shooting as possible. No quick snaps, just fluid shooting that looks nothing like your average aimbot. It includes a simple debloated UI with numerous features for the users convenience.
+Cloud surfer is meant to be easy to use and effective, offering a hybrid between trigger-bot and silent aim to remain as undetectable and as close to natural shooting as possible. No quick snaps, or crazy features just fluid shooting that looks nothing like your average aimbot. It includes a simple debloated UI with numerous features for the users convenience.
 
 ## Loadstring 🗒️
 
